@@ -1,1 +1,4 @@
 informacion local
+##cambio local 1
+## cambio 2
+##mezcla git
