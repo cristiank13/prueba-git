@@ -1,4 +1,11 @@
 informacion local
+<<<<<<< HEAD
 ##cambio local 1
 ## cambio 2
 ##mezcla git
+=======
+
+cambio en rama local
+
+cambio desde github
+>>>>>>> 9f4dec6335173161cfcdcb1d4b322536e051736b
